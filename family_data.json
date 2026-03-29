@@ -662,686 +662,686 @@
     "source_person_id": "jeff",
     "target_person_id": "pearl",
     "relationship_id": "husband",
-    "method": "inferred"
+    "method": "inferred / shared_child"
   },
   {
     "id": 96,
     "source_person_id": "scott",
     "target_person_id": "jasmine",
     "relationship_id": "husband",
-    "method": "inferred"
+    "method": "inferred / shared_child"
   },
   {
     "id": 97,
     "source_person_id": "doug",
     "target_person_id": "angie",
     "relationship_id": "husband",
-    "method": "inferred"
+    "method": "inferred / shared_child"
   },
   {
     "id": 98,
     "source_person_id": "richard",
     "target_person_id": "vicky",
     "relationship_id": "husband",
-    "method": "inferred"
+    "method": "inferred / shared_child"
   },
   {
     "id": 99,
     "source_person_id": "donald",
     "target_person_id": "davida",
     "relationship_id": "husband",
-    "method": "inferred"
+    "method": "inferred / shared_child"
   },
   {
     "id": 100,
     "source_person_id": "gong-gong",
     "target_person_id": "po-po",
     "relationship_id": "husband",
-    "method": "inferred"
+    "method": "inferred / shared_child"
   },
   {
     "id": 101,
     "source_person_id": "jim",
     "target_person_id": "anmei",
     "relationship_id": "husband",
-    "method": "inferred"
+    "method": "inferred / shared_child"
   },
   {
     "id": 102,
     "source_person_id": "matthew",
     "target_person_id": "grace",
     "relationship_id": "husband",
-    "method": "inferred"
+    "method": "inferred / shared_child"
   },
   {
     "id": 103,
     "source_person_id": "stewart",
     "target_person_id": "kitty",
     "relationship_id": "husband",
-    "method": "inferred"
+    "method": "inferred / shared_child"
   },
   {
     "id": 104,
     "source_person_id": "pearl",
     "target_person_id": "jeff",
     "relationship_id": "wife",
-    "method": "inferred"
+    "method": "inferred / shared_child"
   },
   {
     "id": 105,
     "source_person_id": "jasmine",
     "target_person_id": "scott",
     "relationship_id": "wife",
-    "method": "inferred"
+    "method": "inferred / shared_child"
   },
   {
     "id": 106,
     "source_person_id": "angie",
     "target_person_id": "doug",
     "relationship_id": "wife",
-    "method": "inferred"
+    "method": "inferred / shared_child"
   },
   {
     "id": 107,
     "source_person_id": "vicky",
     "target_person_id": "richard",
     "relationship_id": "wife",
-    "method": "inferred"
+    "method": "inferred / shared_child"
   },
   {
     "id": 108,
     "source_person_id": "davida",
     "target_person_id": "donald",
     "relationship_id": "wife",
-    "method": "inferred"
+    "method": "inferred / shared_child"
   },
   {
     "id": 109,
     "source_person_id": "po-po",
     "target_person_id": "gong-gong",
     "relationship_id": "wife",
-    "method": "inferred"
+    "method": "inferred / shared_child"
   },
   {
     "id": 110,
     "source_person_id": "anmei",
     "target_person_id": "jim",
     "relationship_id": "wife",
-    "method": "inferred"
+    "method": "inferred / shared_child"
   },
   {
     "id": 111,
     "source_person_id": "grace",
     "target_person_id": "matthew",
     "relationship_id": "wife",
-    "method": "inferred"
+    "method": "inferred / shared_child"
   },
   {
     "id": 112,
     "source_person_id": "kitty",
     "target_person_id": "stewart",
     "relationship_id": "wife",
-    "method": "inferred"
+    "method": "inferred / shared_child"
   },
   {
     "id": 113,
     "source_person_id": "charlie",
     "target_person_id": "lily",
     "relationship_id": "brother",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 114,
     "source_person_id": "jeff",
     "target_person_id": "scott",
     "relationship_id": "brother",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 115,
     "source_person_id": "scott",
     "target_person_id": "jeff",
     "relationship_id": "brother",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 116,
     "source_person_id": "elvis",
     "target_person_id": "pearl",
     "relationship_id": "brother",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 117,
     "source_person_id": "elvis",
     "target_person_id": "kimberlie",
     "relationship_id": "brother",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 118,
     "source_person_id": "doug",
     "target_person_id": "tim",
     "relationship_id": "brother",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 119,
     "source_person_id": "doug",
     "target_person_id": "pam",
     "relationship_id": "brother",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 120,
     "source_person_id": "doug",
     "target_person_id": "heather",
     "relationship_id": "brother",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 121,
     "source_person_id": "tim",
     "target_person_id": "doug",
     "relationship_id": "brother",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 122,
     "source_person_id": "tim",
     "target_person_id": "pam",
     "relationship_id": "brother",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 123,
     "source_person_id": "tim",
     "target_person_id": "heather",
     "relationship_id": "brother",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 124,
     "source_person_id": "phillip",
     "target_person_id": "teresa",
     "relationship_id": "brother",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 125,
     "source_person_id": "winston",
     "target_person_id": "eleanor",
     "relationship_id": "brother",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 126,
     "source_person_id": "cooper",
     "target_person_id": "ava",
     "relationship_id": "brother",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 127,
     "source_person_id": "lily",
     "target_person_id": "charlie",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 128,
     "source_person_id": "pearl",
     "target_person_id": "elvis",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 129,
     "source_person_id": "pearl",
     "target_person_id": "kimberlie",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 130,
     "source_person_id": "kimberlie",
     "target_person_id": "pearl",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 131,
     "source_person_id": "kimberlie",
     "target_person_id": "elvis",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 132,
     "source_person_id": "pam",
     "target_person_id": "doug",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 133,
     "source_person_id": "pam",
     "target_person_id": "tim",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 134,
     "source_person_id": "pam",
     "target_person_id": "heather",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 135,
     "source_person_id": "heather",
     "target_person_id": "doug",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 136,
     "source_person_id": "heather",
     "target_person_id": "tim",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 137,
     "source_person_id": "heather",
     "target_person_id": "pam",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 138,
     "source_person_id": "angie",
     "target_person_id": "anmei",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 139,
     "source_person_id": "angie",
     "target_person_id": "anhua",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 140,
     "source_person_id": "angie",
     "target_person_id": "anping",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 141,
     "source_person_id": "anmei",
     "target_person_id": "angie",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 142,
     "source_person_id": "anmei",
     "target_person_id": "anhua",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 143,
     "source_person_id": "anmei",
     "target_person_id": "anping",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 144,
     "source_person_id": "anhua",
     "target_person_id": "angie",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 145,
     "source_person_id": "anhua",
     "target_person_id": "anmei",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 146,
     "source_person_id": "anhua",
     "target_person_id": "anping",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 147,
     "source_person_id": "anping",
     "target_person_id": "angie",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 148,
     "source_person_id": "anping",
     "target_person_id": "anmei",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 149,
     "source_person_id": "anping",
     "target_person_id": "anhua",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 150,
     "source_person_id": "teresa",
     "target_person_id": "phillip",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 151,
     "source_person_id": "eleanor",
     "target_person_id": "winston",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 152,
     "source_person_id": "ava",
     "target_person_id": "cooper",
     "relationship_id": "sister",
-    "method": "inferred"
+    "method": "inferred / shared_parent"
   },
   {
     "id": 153,
     "source_person_id": "richard",
     "target_person_id": "benson",
     "relationship_id": "grandpa",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 154,
     "source_person_id": "donald",
     "target_person_id": "emily",
     "relationship_id": "grandpa",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 155,
     "source_person_id": "gong-gong",
     "target_person_id": "jeff",
     "relationship_id": "grandpa",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 156,
     "source_person_id": "gong-gong",
     "target_person_id": "scott",
     "relationship_id": "grandpa",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 157,
     "source_person_id": "gong-gong",
     "target_person_id": "matthew",
     "relationship_id": "grandpa",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 158,
     "source_person_id": "gong-gong",
     "target_person_id": "phillip",
     "relationship_id": "grandpa",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 159,
     "source_person_id": "gong-gong",
     "target_person_id": "teresa",
     "relationship_id": "grandpa",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 160,
     "source_person_id": "doug",
     "target_person_id": "benson",
     "relationship_id": "grandpa",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 161,
     "source_person_id": "doug",
     "target_person_id": "lily",
     "relationship_id": "grandpa",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 162,
     "source_person_id": "doug",
     "target_person_id": "charlie",
     "relationship_id": "grandpa",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 163,
     "source_person_id": "donald",
     "target_person_id": "jeff",
     "relationship_id": "grandpa",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 164,
     "source_person_id": "donald",
     "target_person_id": "scott",
     "relationship_id": "grandpa",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 165,
     "source_person_id": "donald",
     "target_person_id": "cooper",
     "relationship_id": "grandpa",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 166,
     "source_person_id": "donald",
     "target_person_id": "ava",
     "relationship_id": "grandpa",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 167,
     "source_person_id": "jim",
     "target_person_id": "winston",
     "relationship_id": "grandpa",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 168,
     "source_person_id": "jim",
     "target_person_id": "eleanor",
     "relationship_id": "grandpa",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 169,
     "source_person_id": "stewart",
     "target_person_id": "doug",
     "relationship_id": "grandpa",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 170,
     "source_person_id": "stewart",
     "target_person_id": "tim",
     "relationship_id": "grandpa",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 171,
     "source_person_id": "stewart",
     "target_person_id": "pam",
     "relationship_id": "grandpa",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 172,
     "source_person_id": "stewart",
     "target_person_id": "heather",
     "relationship_id": "grandpa",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 173,
     "source_person_id": "angie",
     "target_person_id": "benson",
     "relationship_id": "grandma",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 174,
     "source_person_id": "angie",
     "target_person_id": "lily",
     "relationship_id": "grandma",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 175,
     "source_person_id": "angie",
     "target_person_id": "charlie",
     "relationship_id": "grandma",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 176,
     "source_person_id": "davida",
     "target_person_id": "jeff",
     "relationship_id": "grandma",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 177,
     "source_person_id": "davida",
     "target_person_id": "scott",
     "relationship_id": "grandma",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 178,
     "source_person_id": "davida",
     "target_person_id": "cooper",
     "relationship_id": "grandma",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 179,
     "source_person_id": "davida",
     "target_person_id": "ava",
     "relationship_id": "grandma",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 180,
     "source_person_id": "anmei",
     "target_person_id": "winston",
     "relationship_id": "grandma",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 181,
     "source_person_id": "anmei",
     "target_person_id": "eleanor",
     "relationship_id": "grandma",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 182,
     "source_person_id": "kitty",
     "target_person_id": "doug",
     "relationship_id": "grandma",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 183,
     "source_person_id": "kitty",
     "target_person_id": "tim",
     "relationship_id": "grandma",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 184,
     "source_person_id": "kitty",
     "target_person_id": "pam",
     "relationship_id": "grandma",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 185,
     "source_person_id": "kitty",
     "target_person_id": "heather",
     "relationship_id": "grandma",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 186,
     "source_person_id": "vicky",
     "target_person_id": "benson",
     "relationship_id": "grandma",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 187,
     "source_person_id": "davida",
     "target_person_id": "emily",
     "relationship_id": "grandma",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 188,
     "source_person_id": "po-po",
     "target_person_id": "jeff",
     "relationship_id": "grandma",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 189,
     "source_person_id": "po-po",
     "target_person_id": "scott",
     "relationship_id": "grandma",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 190,
     "source_person_id": "po-po",
     "target_person_id": "matthew",
     "relationship_id": "grandma",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 191,
     "source_person_id": "po-po",
     "target_person_id": "phillip",
     "relationship_id": "grandma",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 192,
     "source_person_id": "po-po",
     "target_person_id": "teresa",
     "relationship_id": "grandma",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 193,
@@ -1628,329 +1628,329 @@
     "source_person_id": "jeff",
     "target_person_id": "charlie",
     "relationship_id": "uncle",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 234,
     "source_person_id": "scott",
     "target_person_id": "benson",
     "relationship_id": "uncle",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 235,
     "source_person_id": "doug",
     "target_person_id": "cooper",
     "relationship_id": "uncle",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 236,
     "source_person_id": "tim",
     "target_person_id": "jeff",
     "relationship_id": "uncle",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 237,
     "source_person_id": "tim",
     "target_person_id": "scott",
     "relationship_id": "uncle",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 238,
     "source_person_id": "elvis",
     "target_person_id": "benson",
     "relationship_id": "uncle",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 239,
     "source_person_id": "pam",
     "target_person_id": "ava",
     "relationship_id": "aunt",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 240,
     "source_person_id": "heather",
     "target_person_id": "ava",
     "relationship_id": "aunt",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 241,
     "source_person_id": "angie",
     "target_person_id": "teresa",
     "relationship_id": "aunt",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 242,
     "source_person_id": "anmei",
     "target_person_id": "teresa",
     "relationship_id": "aunt",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 243,
     "source_person_id": "heather",
     "target_person_id": "emily",
     "relationship_id": "aunt",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 244,
     "source_person_id": "anping",
     "target_person_id": "teresa",
     "relationship_id": "aunt",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 245,
     "source_person_id": "jeff",
     "target_person_id": "tim",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 246,
     "source_person_id": "jeff",
     "target_person_id": "pam",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 247,
     "source_person_id": "jeff",
     "target_person_id": "heather",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 248,
     "source_person_id": "scott",
     "target_person_id": "tim",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 249,
     "source_person_id": "scott",
     "target_person_id": "pam",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 250,
     "source_person_id": "scott",
     "target_person_id": "heather",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 251,
     "source_person_id": "benson",
     "target_person_id": "scott",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 252,
     "source_person_id": "charlie",
     "target_person_id": "jeff",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 253,
     "source_person_id": "cooper",
     "target_person_id": "doug",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 254,
     "source_person_id": "cooper",
     "target_person_id": "pam",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 255,
     "source_person_id": "cooper",
     "target_person_id": "heather",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 256,
     "source_person_id": "jeff",
     "target_person_id": "anmei",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 257,
     "source_person_id": "jeff",
     "target_person_id": "anhua",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 258,
     "source_person_id": "jeff",
     "target_person_id": "anping",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 259,
     "source_person_id": "scott",
     "target_person_id": "anmei",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 260,
     "source_person_id": "scott",
     "target_person_id": "anhua",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 261,
     "source_person_id": "scott",
     "target_person_id": "anping",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 262,
     "source_person_id": "matthew",
     "target_person_id": "angie",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 263,
     "source_person_id": "matthew",
     "target_person_id": "anhua",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 264,
     "source_person_id": "matthew",
     "target_person_id": "anping",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 265,
     "source_person_id": "benson",
     "target_person_id": "elvis",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 266,
     "source_person_id": "benson",
     "target_person_id": "kimberlie",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 267,
     "source_person_id": "phillip",
     "target_person_id": "angie",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 268,
     "source_person_id": "phillip",
     "target_person_id": "anmei",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 269,
     "source_person_id": "phillip",
     "target_person_id": "anping",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 270,
     "source_person_id": "lily",
     "target_person_id": "jeff",
     "relationship_id": "niece",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 271,
     "source_person_id": "ava",
     "target_person_id": "doug",
     "relationship_id": "niece",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 272,
     "source_person_id": "ava",
     "target_person_id": "pam",
     "relationship_id": "niece",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 273,
     "source_person_id": "ava",
     "target_person_id": "heather",
     "relationship_id": "niece",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 274,
     "source_person_id": "teresa",
     "target_person_id": "angie",
     "relationship_id": "niece",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 275,
     "source_person_id": "teresa",
     "target_person_id": "anmei",
     "relationship_id": "niece",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 276,
     "source_person_id": "teresa",
     "target_person_id": "anping",
     "relationship_id": "niece",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 277,
     "source_person_id": "emily",
     "target_person_id": "doug",
     "relationship_id": "niece",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 278,
     "source_person_id": "emily",
     "target_person_id": "tim",
     "relationship_id": "niece",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 279,
     "source_person_id": "emily",
     "target_person_id": "heather",
     "relationship_id": "niece",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 280,
@@ -2118,467 +2118,334 @@
     "source_person_id": "jeff",
     "target_person_id": "cooper",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 304,
     "source_person_id": "jeff",
     "target_person_id": "ava",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 305,
     "source_person_id": "jeff",
     "target_person_id": "emily",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 306,
     "source_person_id": "scott",
     "target_person_id": "cooper",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 307,
     "source_person_id": "scott",
     "target_person_id": "ava",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 308,
     "source_person_id": "scott",
     "target_person_id": "emily",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 309,
     "source_person_id": "benson",
     "target_person_id": "charlie",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 310,
     "source_person_id": "benson",
     "target_person_id": "lily",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 311,
     "source_person_id": "charlie",
     "target_person_id": "benson",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 312,
     "source_person_id": "cooper",
     "target_person_id": "jeff",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 313,
     "source_person_id": "cooper",
     "target_person_id": "scott",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 314,
     "source_person_id": "cooper",
     "target_person_id": "emily",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 315,
     "source_person_id": "jeff",
     "target_person_id": "teresa",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 316,
     "source_person_id": "jeff",
     "target_person_id": "matthew",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 317,
     "source_person_id": "jeff",
     "target_person_id": "phillip",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 318,
     "source_person_id": "scott",
     "target_person_id": "teresa",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 319,
     "source_person_id": "scott",
     "target_person_id": "matthew",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 320,
     "source_person_id": "scott",
     "target_person_id": "phillip",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 321,
     "source_person_id": "matthew",
     "target_person_id": "teresa",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 322,
     "source_person_id": "matthew",
     "target_person_id": "jeff",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 323,
     "source_person_id": "matthew",
     "target_person_id": "scott",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 324,
     "source_person_id": "matthew",
     "target_person_id": "phillip",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 325,
     "source_person_id": "phillip",
     "target_person_id": "jeff",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 326,
     "source_person_id": "phillip",
     "target_person_id": "scott",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 327,
     "source_person_id": "phillip",
     "target_person_id": "matthew",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 328,
     "source_person_id": "lily",
     "target_person_id": "benson",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 329,
     "source_person_id": "ava",
     "target_person_id": "jeff",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 330,
     "source_person_id": "ava",
     "target_person_id": "scott",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 331,
     "source_person_id": "ava",
     "target_person_id": "emily",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 332,
     "source_person_id": "teresa",
     "target_person_id": "jeff",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 333,
     "source_person_id": "teresa",
     "target_person_id": "scott",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 334,
     "source_person_id": "teresa",
     "target_person_id": "matthew",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 335,
     "source_person_id": "emily",
     "target_person_id": "ava",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 336,
     "source_person_id": "emily",
     "target_person_id": "jeff",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 337,
     "source_person_id": "emily",
     "target_person_id": "scott",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 338,
     "source_person_id": "emily",
     "target_person_id": "cooper",
     "relationship_id": "cousin",
-    "method": "inferred"
+    "method": "inferred / chain"
   },
   {
     "id": 339,
     "source_person_id": "pearl",
     "target_person_id": "charlie",
     "relationship_id": "aunt",
-    "method": "inferred"
+    "method": "inferred / uncle_wife_aunt"
   },
   {
     "id": 340,
     "source_person_id": "pearl",
     "target_person_id": "lily",
     "relationship_id": "aunt",
-    "method": "inferred"
+    "method": "inferred / uncle_wife_aunt"
   },
   {
     "id": 341,
     "source_person_id": "jasmine",
     "target_person_id": "benson",
     "relationship_id": "aunt",
-    "method": "inferred"
+    "method": "inferred / uncle_wife_aunt"
   },
   {
     "id": 342,
     "source_person_id": "angie",
     "target_person_id": "cooper",
     "relationship_id": "aunt",
-    "method": "inferred"
+    "method": "inferred / uncle_wife_aunt"
   },
   {
     "id": 343,
     "source_person_id": "angie",
     "target_person_id": "ava",
     "relationship_id": "aunt",
-    "method": "inferred"
+    "method": "inferred / uncle_wife_aunt"
   },
   {
     "id": 344,
     "source_person_id": "angie",
     "target_person_id": "emily",
     "relationship_id": "aunt",
-    "method": "inferred"
+    "method": "inferred / uncle_wife_aunt"
   },
   {
     "id": 345,
-    "source_person_id": "jeff",
-    "target_person_id": "jim",
+    "source_person_id": "charlie",
+    "target_person_id": "pearl",
     "relationship_id": "nephew",
-    "method": "inferred"
+    "method": "inverse"
   },
   {
     "id": 346,
-    "source_person_id": "scott",
-    "target_person_id": "jim",
-    "relationship_id": "nephew",
-    "method": "inferred"
-  },
-  {
-    "id": 347,
-    "source_person_id": "matthew",
-    "target_person_id": "doug",
-    "relationship_id": "nephew",
-    "method": "inferred"
-  },
-  {
-    "id": 348,
-    "source_person_id": "benson",
-    "target_person_id": "jasmine",
-    "relationship_id": "niece",
-    "method": "inferred"
-  },
-  {
-    "id": 349,
     "source_person_id": "lily",
     "target_person_id": "pearl",
     "relationship_id": "niece",
-    "method": "inferred"
-  },
-  {
-    "id": 350,
-    "source_person_id": "charlie",
-    "target_person_id": "pearl",
-    "relationship_id": "niece",
-    "method": "inferred"
-  },
-  {
-    "id": 351,
-    "source_person_id": "phillip",
-    "target_person_id": "doug",
-    "relationship_id": "nephew",
-    "method": "inferred"
-  },
-  {
-    "id": 352,
-    "source_person_id": "phillip",
-    "target_person_id": "jim",
-    "relationship_id": "nephew",
-    "method": "inferred"
-  },
-  {
-    "id": 353,
-    "source_person_id": "teresa",
-    "target_person_id": "doug",
-    "relationship_id": "nephew",
-    "method": "inferred"
-  },
-  {
-    "id": 354,
-    "source_person_id": "teresa",
-    "target_person_id": "jim",
-    "relationship_id": "nephew",
-    "method": "inferred"
-  },
-  {
-    "id": 355,
-    "source_person_id": "cooper",
-    "target_person_id": "angie",
-    "relationship_id": "niece",
-    "method": "inferred"
-  },
-  {
-    "id": 356,
-    "source_person_id": "ava",
-    "target_person_id": "angie",
-    "relationship_id": "niece",
-    "method": "inferred"
-  },
-  {
-    "id": 357,
-    "source_person_id": "emily",
-    "target_person_id": "angie",
-    "relationship_id": "niece",
-    "method": "inferred"
-  },
-  {
-    "id": 358,
-    "source_person_id": "jim",
-    "target_person_id": "jeff",
-    "relationship_id": "uncle",
     "method": "inverse"
   },
   {
-    "id": 359,
-    "source_person_id": "charlie",
-    "target_person_id": "pearl",
-    "relationship_id": "nephew",
-    "method": "inverse"
-  },
-  {
-    "id": 360,
-    "source_person_id": "jim",
-    "target_person_id": "scott",
-    "relationship_id": "uncle",
-    "method": "inverse"
-  },
-  {
-    "id": 361,
+    "id": 347,
     "source_person_id": "benson",
     "target_person_id": "jasmine",
     "relationship_id": "nephew",
     "method": "inverse"
   },
   {
-    "id": 362,
+    "id": 348,
     "source_person_id": "cooper",
     "target_person_id": "angie",
     "relationship_id": "nephew",
     "method": "inverse"
   },
   {
-    "id": 363,
-    "source_person_id": "doug",
-    "target_person_id": "matthew",
-    "relationship_id": "uncle",
-    "method": "inverse"
-  },
-  {
-    "id": 364,
-    "source_person_id": "doug",
-    "target_person_id": "phillip",
-    "relationship_id": "uncle",
-    "method": "inverse"
-  },
-  {
-    "id": 365,
-    "source_person_id": "jim",
-    "target_person_id": "phillip",
-    "relationship_id": "uncle",
-    "method": "inverse"
-  },
-  {
-    "id": 366,
-    "source_person_id": "doug",
-    "target_person_id": "teresa",
-    "relationship_id": "uncle",
-    "method": "inverse"
-  },
-  {
-    "id": 367,
-    "source_person_id": "jim",
-    "target_person_id": "teresa",
-    "relationship_id": "uncle",
-    "method": "inverse"
-  },
-  {
-    "id": 368,
-    "source_person_id": "teresa",
-    "target_person_id": "doug",
+    "id": 349,
+    "source_person_id": "ava",
+    "target_person_id": "angie",
     "relationship_id": "niece",
     "method": "inverse"
   },
   {
-    "id": 369,
-    "source_person_id": "teresa",
-    "target_person_id": "jim",
+    "id": 350,
+    "source_person_id": "emily",
+    "target_person_id": "angie",
     "relationship_id": "niece",
     "method": "inverse"
   }
